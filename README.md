@@ -4,7 +4,7 @@ A collection of Java code snippets and examples exploring functional programming
 
 ## Overview
 
-This repository contains examples and exercises related to functional programming in Java. The code is organized by different topics and concepts, providing a hands-on approach to learning and practicing functional programming principles.
+This repository contains examples and exercises related to my journey in learning java functional programming. The code is organized by different topics and concepts, providing a hands-on approach to learning and practicing functional programming principles.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ This repository contains examples and exercises related to functional programmin
 ### Prerequisites
 
 - Java Development Kit (JDK)
-- IDE (e.g., IntelliJ IDEA, Eclipse)
+- IDE: I used vscode
 - Maven (for building and managing dependencies)
 
 ### Clone the Repository
